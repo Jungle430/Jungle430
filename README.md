@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Jungle
-### 你好 👋🏻️，我是Jungle
 
 - 👋 BUPT Software engineering Graduate(2021)
 - 👀 I’m interested in C++/Java/Python
