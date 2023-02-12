@@ -13,4 +13,3 @@
 
 - [![zhihu](https://img.shields.io/static/v1?style=flat-square&logo=zhihu&label=&message=@Jungle&color=eaeff9&labelColor=96CDFB)](https://www.zhihu.com/people/gu-shi-zhen-dui-wo)
 
-- https://Jungle430.github.io
