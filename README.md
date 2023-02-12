@@ -12,3 +12,4 @@
 
 - [![zhihu](https://img.shields.io/static/v1?style=flat-square&logo=zhihu&label=&message=@Jungle&color=eaeff9&labelColor=96CDFB)](https://www.zhihu.com/people/gu-shi-zhen-dui-wo)
 
+![github contribution grid snake animation](https://github.com/Y4tacker/Y4tacker/blob/output/github-contribution-grid-snake.svg)
