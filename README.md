@@ -1,15 +1,31 @@
-### Hi there 👋, I'm Jungle
+## Hi there 👋, I'm Jungle
 
+## Who is me?:eyes:
 - 👋 BUPT Software engineering Graduate
-- 👀 I’m interested in C++/Java/Python
-- 🐔 I'm learning Operating System, Database and Computer vision
 
-### About my coding
+## 🔧 Technologies & Tools
+- ![C++](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
+- ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=cplusplus&logoColor=white&color=2bbc8a)
+- ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Oracle&logoColor=white&color=2bbc8a)
+- ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
+- ![CMake](https://img.shields.io/badge/Code-CMake-informational?style=flat-square&logo=cmake&logoColor=white&color=2bbc8a)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jungle430&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## 🌟 Now Learning
 
-### How to reach me?
+- ![Operating System](https://img.shields.io/badge/Learning-Operating--System-informational?style=flat-square&logo=Linux&logoColor=white&color=2bbc8a)
+- ![DataBase](https://img.shields.io/badge/Learning-DataBase-informational?style=flat-square&logo=MySQL&logoColor=white&color=2bbc8a)
+- ![OpenCV](https://img.shields.io/badge/Learning-OpenCV-informational?style=flat-square&logo=OpenCV&logoColor=white&color=2bbc8a)
+- ![Qt](https://img.shields.io/badge/Learning-Qt-informational?style=flat-square&logo=Qt&logoColor=white&color=2bbc8a)
+
+## How to reach me?
 
 - [![zhihu](https://img.shields.io/static/v1?style=flat-square&logo=zhihu&label=&message=@Jungle&color=eaeff9&labelColor=96CDFB)](https://www.zhihu.com/people/gu-shi-zhen-dui-wo)
+
+- [![steam](https://img.shields.io/static/v1?style=flat-square&logo=steam&label=&message=@Jungle&color=lightgrey&labelColor=black)](https://steamcommunity.com/profiles/76561198139978345/)
+
+## About my Coding
+
+[<img align="left" width="450" alt="🥂" src="https://github-readme-stats.zohan.tech/api?username=Jungle430&show_icons=true&count_private=true&theme=buefy">](#)
+[<img align="right" width="450" alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jungle430&theme=buefy">](#)
 
 ![github contribution grid snake animation](https://github.com/Y4tacker/Y4tacker/blob/output/github-contribution-grid-snake.svg)
