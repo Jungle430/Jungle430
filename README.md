@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jungle
 
-- 👋 BUPT Software engineering Graduate(2021)
+- 👋 BUPT Software engineering Graduate
 - 👀 I’m interested in C++/Java/Python
 - 🐔 I'm learning Operating System, Database and Computer vision
 
