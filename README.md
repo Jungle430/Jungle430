@@ -25,7 +25,7 @@
 
 ## About my Coding
 
-[<img align="left" width="450" alt="🥂" src="https://github-readme-stats.zohan.tech/api?username=Jungle430&show_icons=true&count_private=true&theme=buefy">](#)
-[<img align="right" width="450" alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jungle430&theme=buefy">](#)
+[<img align="left" width="400" alt="🥂" src="https://github-readme-stats.zohan.tech/api?username=Jungle430&show_icons=true&count_private=true&theme=buefy">](#)
+[<img align="right" width="400" alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jungle430&theme=buefy">](#)
 
 ![github contribution grid snake animation](https://github.com/Y4tacker/Y4tacker/blob/output/github-contribution-grid-snake.svg)
