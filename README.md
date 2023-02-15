@@ -23,7 +23,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jungle430&theme=buefy)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungle430&layout=compact&hide=HTML,CMake)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungle430&layout=compact&hide=HTML)
 
 ## How to reach me?
 
