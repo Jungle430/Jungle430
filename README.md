@@ -23,8 +23,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jungle430&theme=buefy)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungle430&layout=compact&hide=HTML)
-
 ## How to reach me?
 
 - [![zhihu](https://img.shields.io/static/v1?style=flat-square&logo=zhihu&label=&message=@Jungle&color=eaeff9&labelColor=96CDFB)](https://www.zhihu.com/people/gu-shi-zhen-dui-wo)
