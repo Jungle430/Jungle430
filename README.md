@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Jungle
 
 ## Who is me?:eyes:
-- 👋 BUPT Software engineering Graduate
+- 👋 BUPT Software engineering undergraduate
 
 ## 🔧 Technologies & Tools
 ![C++](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
