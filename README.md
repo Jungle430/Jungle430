@@ -16,6 +16,8 @@
 ![DataBase](https://img.shields.io/badge/Learning-DataBase-informational?style=flat-square&logo=MySQL&logoColor=white&color=2bbc8a)
 ![OpenCV](https://img.shields.io/badge/Learning-OpenCV-informational?style=flat-square&logo=OpenCV&logoColor=white&color=2bbc8a)
 ![Qt](https://img.shields.io/badge/Learning-Qt-informational?style=flat-square&logo=Qt&logoColor=white&color=2bbc8a)
+![Go](https://img.shields.io/badge/Learning-Go-informational?style=flat-square&logo=go&logoColor=white&color=2bbc8a)
+![Rust](https://img.shields.io/badge/Learning-Rust-informational?style=flat-square&logo=rust&logoColor=white&color=2bbc8a)
 
 ## About my Coding
 
