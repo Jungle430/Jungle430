@@ -4,9 +4,8 @@
 - 👋 BUPT Software engineering undergraduate
 
 ## 🔧 Technologies & Tools
-![C++](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=cplusplus&logoColor=white&color=2bbc8a)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Oracle&logoColor=white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![CMake](https://img.shields.io/badge/Code-CMake-informational?style=flat-square&logo=cmake&logoColor=white&color=2bbc8a)
 
@@ -14,8 +13,6 @@
 
 ![Operating System](https://img.shields.io/badge/Learning-Operating--System-informational?style=flat-square&logo=Linux&logoColor=white&color=2bbc8a)
 ![DataBase](https://img.shields.io/badge/Learning-DataBase-informational?style=flat-square&logo=MySQL&logoColor=white&color=2bbc8a)
-![OpenCV](https://img.shields.io/badge/Learning-OpenCV-informational?style=flat-square&logo=OpenCV&logoColor=white&color=2bbc8a)
-![Qt](https://img.shields.io/badge/Learning-Qt-informational?style=flat-square&logo=Qt&logoColor=white&color=2bbc8a)
 ![Go](https://img.shields.io/badge/Learning-Go-informational?style=flat-square&logo=go&logoColor=white&color=2bbc8a)
 ![Rust](https://img.shields.io/badge/Learning-Rust-informational?style=flat-square&logo=rust&logoColor=white&color=2bbc8a)
 
