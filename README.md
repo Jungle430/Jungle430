@@ -2,17 +2,20 @@
 
 ## Who is me?:eyes:
 - 👋 BUPT Software engineering undergraduate
+- Interested in `Databases`, `Distributed Systems`
 
 ## 🔧 Technologies & Tools
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![CMake](https://img.shields.io/badge/Code-CMake-informational?style=flat-square&logo=cmake&logoColor=white&color=2bbc8a)
+![Springboot](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat-square&logo=Spring&logoColor=white&color=2bbc8a)
 
 ## 🌟 Now Learning
 
-![Operating System](https://img.shields.io/badge/Learning-Operating--System-informational?style=flat-square&logo=Linux&logoColor=white&color=2bbc8a)
-![DataBase](https://img.shields.io/badge/Learning-DataBase-informational?style=flat-square&logo=MySQL&logoColor=white&color=2bbc8a)
+![Linux](https://img.shields.io/badge/Learning-Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=2bbc8a)
+![DataBase](https://img.shields.io/badge/Learning-MySQL-informational?style=flat-square&logo=MySQL&logoColor=white&color=2bbc8a)
+![Redis](https://img.shields.io/badge/Learning-Redis-informational?style=flat-square&logo=Redis&logoColor=white&color=2bbc8a)
 ![Go](https://img.shields.io/badge/Learning-Go-informational?style=flat-square&logo=go&logoColor=white&color=2bbc8a)
 ![Rust](https://img.shields.io/badge/Learning-Rust-informational?style=flat-square&logo=rust&logoColor=white&color=2bbc8a)
 
