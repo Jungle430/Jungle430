@@ -1,8 +1,6 @@
-## Hi there 👋, I'm Jungle
-
 ## Who is me?:eyes:
 - 👋 BUPT Software engineering undergraduate
-- Interested in `Databases`, `Distributed Systems`
+- Interested in <b>`Databases`, `Distributed Systems`</b>
 
 ## 🔧 Technologies & Tools
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
