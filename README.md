@@ -18,14 +18,9 @@
 ![Go](https://img.shields.io/badge/Learning-Go-informational?style=flat-square&logo=go&logoColor=white&color=2bbc8a)
 ![Rust](https://img.shields.io/badge/Learning-Rust-informational?style=flat-square&logo=rust&logoColor=white&color=2bbc8a)
 
-## About my Coding
-
-![](https://github-readme-stats.zohan.tech/api?username=Jungle430&show_icons=true&count_private=true&theme=buefy)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jungle430&theme=buefy)
-
 ## How to reach me?
 
 - [![telegram](https://img.shields.io/static/v1?style=flat-square&logo=telegram&label=&message=@Jungle&color=eaeff9&labelColor=blue)](https://t.me/Junglehaobin)
+- 📫 junglece430@gmail.com
 
 <!--![github contribution grid snake animation](https://github.com/Y4tacker/Y4tacker/blob/output/github-contribution-grid-snake.svg)-->
