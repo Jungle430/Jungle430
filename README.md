@@ -1,7 +1,7 @@
 ## Who is me?:eyes:
 - 👋 BUPT Software engineering undergraduate
 - Interested in <b>`Databases`, `Distributed Systems`</b>
-- I'm learning <b>`computer network`</b> this term, I like to use <b>`GoLang`</b> to do network programming and learn C language <b>`socket`</b> library (Linux), I may not be good network programming now, but I will work hard to learn it!
+- I'm learning <b>`computer network`</b> this term, I like to use <b>`GoLang`</b> to do network programming and learn C language <b>`socket`</b> library (Linux), I may not be good at programming about network now, but I will work hard to learn it!
 
 ## 🔧 Technologies & Tools
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
@@ -22,5 +22,3 @@
 
 - [![telegram](https://img.shields.io/static/v1?style=flat-square&logo=telegram&label=&message=@Jungle&color=eaeff9&labelColor=blue)](https://t.me/Junglehaobin)
 - 📫 junglece430@gmail.com
-
-<!--![github contribution grid snake animation](https://github.com/Y4tacker/Y4tacker/blob/output/github-contribution-grid-snake.svg)-->
