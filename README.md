@@ -1,7 +1,7 @@
 ## Who is me? :eyes:
 - 👋 BUPT Software engineering undergraduate
-- Interested in <b>`Databases`, `Distributed Systems`</b>
-- I'm learning <b>`computer network`</b> this term, I like to use <b>`GoLang`</b> to do network programming and learn C language <b>`socket`</b> library (Linux), I may not be good at programming about network now, but I will work hard to learn it!
+- My areas of interest encompass <b>`databases`</b> and <b>`distributed systems`</b>.
+- Currently, I am delving into the realm of <b>`computer networks`</b> as part of my coursework.  I have a keen interest in utilizing <b>`GoLang`</b> for network programming and am actively learning the C language <b>`socket`</b> library on Linux.  While I may not be proficient in network programming at the moment, I am committed to putting in the effort to enhance my skills!
 
 ## 🔧 Technologies & Tools
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
