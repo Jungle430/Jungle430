@@ -1,7 +1,7 @@
 ## Who is me? :eyes:
-- 👋 BUPT Software engineering undergraduate
+- 👋 [BUPT](https://www.bupt.edu.cn) Software engineering undergraduate
 - My areas of interest encompass <b>`databases`</b> and <b>`distributed systems`</b>.
-- Currently, I am delving into the realm of <b>`computer networks`</b> as part of my coursework.  I have a keen interest in utilizing <b>`GoLang`</b> for network programming and am actively learning the C language <b>`socket`</b> library on Linux.  While I may not be proficient in network programming at the moment, I am committed to putting in the effort to enhance my skills!
+- I am currently studying <b>`CMU 15-445 Database Systems`</b> course and working on the [bustub](https://github.com/cmu-db/bustub) lab. I have already completed Lab 1. If you are also interested in this area, welcome to reach out and discuss with me!
 
 ## 🔧 Technologies & Tools
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
