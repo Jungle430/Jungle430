@@ -10,6 +10,8 @@
 ![CMake](https://img.shields.io/badge/Code-CMake-informational?style=flat-square&logo=cmake&logoColor=white&color=2bbc8a)
 ![Springboot](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat-square&logo=Spring&logoColor=white&color=2bbc8a)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungle430&theme=onedark&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌟 Now Learning
 
 ![Linux](https://img.shields.io/badge/Learning-Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=2bbc8a)
