@@ -1,6 +1,6 @@
 ## Who is me? :eyes:
 - 👋 [BUPT](https://www.bupt.edu.cn) Software engineering undergraduate
-- Internshiping in ![HuaWei](https://img.shields.io/badge/-informational?style=flat-square&logo=huawei&logoColor=white&color=ff0000) <b>`HuaWei`</b> backend development
+- Internshiping in ![HuaWei](https://img.shields.io/badge/HUAWEI-informational?style=flat-square&logo=huawei&logoColor=white&color=ff0000) backend development
 - Interested in <b>`databases`</b> | <b>`distributed systems`</b>
 - I am currently studying <b>`CMU 15-445 Database Systems`</b> course and working on the [bustub](https://github.com/cmu-db/bustub) lab. I have already completed Lab 1. If you are also interested in this area, welcome to reach out and discuss with me!
 
