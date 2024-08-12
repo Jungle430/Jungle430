@@ -1,7 +1,7 @@
 ## Who is me? :eyes:
 - [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn) Software engineering undergraduate
 - Interested in <b>`Databases`</b> | <b>`Distributed Systems`</b>
-- I am currently studying <b>`CMU 15-445 Database Systems`</b> course and working on the [bustub](https://github.com/cmu-db/bustub) lab. I have already completed Lab 1 and Lab2. If you are also interested in this area, welcome to reach out and discuss with me!
+- I am currently studying <b>`CMU 15-445 Database Systems`</b> course and working on the [bustub](https://github.com/cmu-db/bustub) lab. I have already completed Lab 1 ~ Lab3. If you are also interested in this area, welcome to reach out and discuss with me!
 
 ## 🔧 Technologies & Tools
 ![C++](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C)
