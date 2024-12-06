@@ -1,7 +1,7 @@
 ## Who is me? :eyes:
 - [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn) Software engineering undergraduate
 - Interested in <b>`Databases`</b> | <b>`Distributed Systems`</b> | <b>`Backend Develop`</b>
-- Intern of ![Huawei](https://img.shields.io/badge/Huawei-informational?style=for-the-badge&logo=Huawei&logoColor=white&color=FF0000) ![Meituan](https://img.shields.io/badge/Meituan-informational?style=for-the-badge&logo=meituan&logoColor=white&color=FFD100)
+- Intern of [![Huawei](https://img.shields.io/badge/Huawei-informational?style=for-the-badge&logo=Huawei&logoColor=white&color=FF0000)](https://huawei.com) [![Meituan](https://img.shields.io/badge/Meituan-informational?style=for-the-badge&logo=meituan&logoColor=white&color=FFD100)](https://meituan.com)
 - I am currently studying <b>`CMU 15-445 Database Systems`</b> course and working on the [bustub](https://github.com/cmu-db/bustub) lab. I have already completed Lab1 ~ Lab3. If you are also interested in this area, welcome to reach out and discuss with me!
 - I am also currently studying <b>[mini-lsm](https://github.com/skyzh/mini-lsm)</b> course, I prefer Rust for my own storage engine project to bypass some bugbears in C++ language design
 
