@@ -1,7 +1,3 @@
-## Who is me? :eyes:
-- [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn) Software engineering undergraduate
-- Interested in <b>`Backend Develop`</b>
-
 ## 🔧 Technologies & Tools
 ![C++](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C)
 ![CMake](https://img.shields.io/badge/CMake-informational?style=for-the-badge&logo=cmake&logoColor=white&color=064F8C)
