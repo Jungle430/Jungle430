@@ -13,5 +13,5 @@
 ## How to reach me?
 - [![telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=&message=@Jungle&color=eaeff9&labelColor=blue)](https://t.me/Junglehaobin)
 - [![leetcode](https://img.shields.io/static/v1?style=for-the-badge&logo=leetcode&label=&message=@Jungle&color=eaeff9&labelColor=ffffff)](https://leetcode.cn/u/reverent-solomong7j)
-- [🧑‍💼 LinkedIn](https://www.linkedin.com/in/yingce-sun-8854902b8)
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/yingce-sun-8854902b8)
 - 📫 junglece430@gmail.com
