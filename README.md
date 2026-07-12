@@ -1,17 +1,46 @@
-## 🔧 Technologies & Tools
-![C++](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C)
-![CMake](https://img.shields.io/badge/CMake-informational?style=for-the-badge&logo=cmake&logoColor=white&color=064F8C)
-![Springboot](https://img.shields.io/badge/SpringBoot-informational?style=for-the-badge&logo=Spring&logoColor=white&color=6DB33F)
-![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=FCC624)
+<h1 align="center">Hi, I'm YingCe Sun (Jungle) 👋</h1>
 
-## 🌟 Now Learning
+<p align="center">
+  <strong>Full-stack Engineer · AI Infrastructure · Open-source Contributor</strong><br/>
+  Building end-to-end products and high-performance AI infrastructure.
+</p>
 
-![Rust](https://img.shields.io/badge/Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=000000)
-![CUDA](https://img.shields.io/badge/CUDA-informational?style=for-the-badge&logo=nvidia&logoColor=white&color=76B900)
-![Pytorch](https://img.shields.io/badge/Pytorch-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=EE4C2C)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yingce-sun-8854902b8/"><img src="https://img.shields.io/badge/LinkedIn-YingCe%20Sun-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:junglece430@gmail.com"><img src="https://img.shields.io/badge/Email-junglece430%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/Junglehaobin"><img src="https://img.shields.io/badge/Telegram-%40Junglehaobin-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://leetcode.cn/u/reverent-solomong7j"><img src="https://img.shields.io/badge/LeetCode-Jungle-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+</p>
 
-## How to reach me?
-- [![telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=&message=@Jungle&color=eaeff9&labelColor=blue)](https://t.me/Junglehaobin)
-- [![leetcode](https://img.shields.io/static/v1?style=for-the-badge&logo=leetcode&label=&message=@Jungle&color=eaeff9&labelColor=ffffff)](https://leetcode.cn/u/reverent-solomong7j)
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/yingce-sun-8854902b8)
-- 📫 junglece430@gmail.com
+## About me
+
+- 🚀 Contributor to **[vLLM-Omni](https://github.com/vllm-project/vllm-omni)**, bringing Omni-Diffusion into a production-oriented inference stack
+- 🔭 Focused on full-stack development, distributed systems, model serving, and high-performance AI infrastructure
+- 🧑‍💼 See my professional background and experience on **[LinkedIn](https://www.linkedin.com/in/yingce-sun-8854902b8/)**
+
+## Open-source contributions
+
+### [vLLM-Omni](https://github.com/vllm-project/vllm-omni)
+
+- **[Omni-Diffusion support #4212](https://github.com/vllm-project/vllm-omni/pull/4212)** — Integrates Omni-Diffusion into vLLM-Omni's unified serving stack, enabling text-to-image, visual question answering, and speech recognition through an OpenAI-compatible API. ([Proposal #3300](https://github.com/vllm-project/vllm-omni/issues/3300))
+
+## Technologies & tools
+
+**Full-stack & systems**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**AI & performance**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+## Let's connect
+
+I'm happy to connect with people working on full-stack products, open-source AI infrastructure, and efficient model serving. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/yingce-sun-8854902b8/) or [email](mailto:junglece430@gmail.com).
