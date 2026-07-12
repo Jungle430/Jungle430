@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm YingCe Sun (Jungle) 👋</h1>
+<h1 align="center">Hi, I'm YingCe Sun (Jungle430) 👋</h1>
 
 <p align="center">
   <strong>Full-stack Engineer · AI Infrastructure · Open-source Contributor</strong><br/>
