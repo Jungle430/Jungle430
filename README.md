@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yingce-sun-8854902b8/"><img src="https://img.shields.io/badge/LinkedIn-YingCe%20Sun-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/yingce-sun-8854902b8/"><img src="./assets/linkedin-badge.svg" alt="LinkedIn: YingCe Sun" /></a>
   <a href="mailto:junglece430@gmail.com"><img src="https://img.shields.io/badge/Email-junglece430%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/Junglehaobin"><img src="https://img.shields.io/badge/Telegram-%40Junglehaobin-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://leetcode.cn/u/reverent-solomong7j"><img src="https://img.shields.io/badge/LeetCode-Jungle-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
@@ -26,20 +26,11 @@
 
 ## Technologies & tools
 
-**Full-stack & systems**
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**AI & performance**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+<p>
+  <img src="https://api.iconify.design/simple-icons:openai.svg?color=%2310A37F" width="20" height="20" alt="OpenAI" /> <strong>ChatGPT (Codex)</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:claude.svg?color=%23D97757" width="20" height="20" alt="Claude" /> <strong>Claude Code</strong>
+</p>
 
 ## Let's connect
 
