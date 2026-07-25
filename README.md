@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Full-stack Engineer · AI Infrastructure · Open-source Contributor</strong><br/>
-  Building end-to-end products and high-performance AI infrastructure.
+  High-performance AI inference and AI-assisted full-stack development, from idea to production.
 </p>
 
 <p align="center">
