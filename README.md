@@ -22,7 +22,7 @@
 
 ### [vLLM-Omni](https://github.com/vllm-project/vllm-omni)
 
-- **[Omni-Diffusion support #4212](https://github.com/vllm-project/vllm-omni/pull/4212)** — Integrates Omni-Diffusion into vLLM-Omni's unified serving stack, enabling text-to-image, visual question answering, and speech recognition through an OpenAI-compatible API. ([Proposal #3300](https://github.com/vllm-project/vllm-omni/issues/3300))
+- **[Omni-Diffusion support #4212](https://github.com/vllm-project/vllm-omni/pull/4212)** — Integrates Omni-Diffusion into vLLM-Omni's unified serving stack with six multimodal tasks: text-to-image (T2I), image + text to text (VQA), audio to text (ASR), text to audio (TTS), audio to image (S2I), and image + audio to text (SVQA), available through OpenAI-compatible and offline APIs. ([Proposal #3300](https://github.com/vllm-project/vllm-omni/issues/3300))
 
 ## Technologies & tools
 
