@@ -15,7 +15,7 @@
 ## About me
 
 - 🚀 Contributor to **[vLLM-Omni](https://github.com/vllm-project/vllm-omni)**, bringing Omni-Diffusion into a production-oriented inference stack
-- 🔭 Focused on full-stack development, distributed systems, model serving, and high-performance AI infrastructure
+- 🔭 Currently focused on inference optimization for diffusion models
 - 🧑‍💼 See my professional background and experience on **[LinkedIn](https://www.linkedin.com/in/yingce-sun-8854902b8/)**
 
 ## Open-source contributions
