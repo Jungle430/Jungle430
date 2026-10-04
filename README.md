@@ -18,7 +18,6 @@
 ## About me
 
 - ⚡ Focused on developing and optimizing the **[vLLM-Omni](https://github.com/vllm-project/vllm-omni)** engine and high-performance GPU operators in **[RL-Kernel](https://github.com/RL-Align/RL-Kernel)**
-- 🧑‍💼 See my professional background and experience on **[LinkedIn](https://www.linkedin.com/in/yingce-sun-8854902b8/)**
 
 ## Technologies & tools
 
@@ -43,7 +42,3 @@
     <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jungle430&amp;theme=github&amp;utcOffset=8" alt="Jungle430's commit time distribution" />
   </picture>
 </p>
-
-## Let's connect
-
-I'm happy to connect with people working on full-stack products, open-source AI infrastructure, and efficient model serving. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/yingce-sun-8854902b8/) or [email](mailto:junglece430@gmail.com).
