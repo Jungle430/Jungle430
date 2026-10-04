@@ -33,9 +33,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jungle430&amp;theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jungle430&amp;theme=github" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jungle430&amp;theme=github" alt="Jungle430's GitHub activity summary" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jungle430&amp;theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jungle430&amp;theme=github" />
+    <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jungle430&amp;theme=github" alt="Jungle430's GitHub statistics" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jungle430&amp;theme=github_dark&amp;utcOffset=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jungle430&amp;theme=github&amp;utcOffset=8" />
+    <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jungle430&amp;theme=github&amp;utcOffset=8" alt="Jungle430's commit time distribution" />
   </picture>
 </p>
 
