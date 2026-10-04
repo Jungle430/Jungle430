@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=vLLM-Omni+Engine+Development+%26+Optimization;High-performance+GPU+Operator+Development;AI-assisted+Full-stack+Delivery" alt="Current engineering focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Focused+on+Multimodal+Inference+%26+RL+Operator+Optimization" alt="Focused on multimodal inference and RL operator optimization" />
 </p>
 
 <p align="center">
