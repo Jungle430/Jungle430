@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm YingCe Sun (Jungle430) 👋</h1>
 
 <p align="center">
-  <strong>Full-stack Engineer · AI Infrastructure · Open-source Contributor</strong><br/>
-  High-performance AI inference and AI-assisted full-stack development, from idea to production.
+  <strong>Full-stack Engineer · AI Infrastructure · Open-source Contributor</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=vLLM-Omni+Engine+Development+%26+Optimization;High-performance+GPU+Operator+Development;AI-assisted+Full-stack+Delivery" alt="Current engineering focus" />
 </p>
 
 <p align="center">
@@ -24,6 +27,12 @@
   <img src="https://api.iconify.design/simple-icons:openai.svg?color=%2310A37F" width="20" height="20" alt="OpenAI" /> <strong>ChatGPT (Codex)</strong>
   &nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons:claude.svg?color=%23D97757" width="20" height="20" alt="Claude" /> <strong>Claude Code</strong>
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Jungle430's 3D GitHub contribution calendar" />
 </p>
 
 ## Let's connect
