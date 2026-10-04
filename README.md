@@ -32,7 +32,11 @@
 ## GitHub activity
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Jungle430's 3D GitHub contribution calendar" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jungle430&amp;theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jungle430&amp;theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jungle430&amp;theme=github" alt="Jungle430's GitHub activity summary" />
+  </picture>
 </p>
 
 ## Let's connect
