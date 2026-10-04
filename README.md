@@ -17,8 +17,7 @@
 
 ## About me
 
-- 🚀 Contributor to **[vLLM-Omni](https://github.com/vllm-project/vllm-omni)** and **[RL-Kernel](https://github.com/RL-Align/RL-Kernel)**
-- ⚡ Focused on developing and optimizing the **vLLM-Omni** engine and high-performance GPU operators in **RL-Kernel**
+- ⚡ Focused on developing and optimizing the **[vLLM-Omni](https://github.com/vllm-project/vllm-omni)** engine and high-performance GPU operators in **[RL-Kernel](https://github.com/RL-Align/RL-Kernel)**
 - 🧑‍💼 See my professional background and experience on **[LinkedIn](https://www.linkedin.com/in/yingce-sun-8854902b8/)**
 
 ## Technologies & tools
