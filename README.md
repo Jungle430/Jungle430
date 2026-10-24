@@ -21,9 +21,7 @@
 
 ## Technologies & tools
 
-<p>
-  <img src="https://api.iconify.design/simple-icons:openai.svg?color=%2310A37F" width="20" height="20" alt="OpenAI" /> <strong>ChatGPT (Codex)</strong>
-</p>
+<p>ChatGPT (Codex)</p>
 
 ## GitHub activity
 
