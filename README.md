@@ -23,8 +23,6 @@
 
 <p>
   <img src="https://api.iconify.design/simple-icons:openai.svg?color=%2310A37F" width="20" height="20" alt="OpenAI" /> <strong>ChatGPT (Codex)</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:claude.svg?color=%23D97757" width="20" height="20" alt="Claude" /> <strong>Claude Code</strong>
 </p>
 
 ## GitHub activity
